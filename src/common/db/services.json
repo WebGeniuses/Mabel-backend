@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Front-End.",
+      "body": "Give your visitors the best expression on your site with good looking design, eye-catching animation and responsiveness using HTML, CSS, JS or React"
+    },
+    {
+      "id": 2,
+      "title": "Scripting",
+      "body": "Make your site more dynamic and user friendly, using clean cross-browser and valid code."
+    },
+    {
+      "id": 3,
+      "title": "Bug-fixes",
+      "body": "Get rid of all the bugs that make you feel bad and your site ugly. Leave me those easy-peasy tasks and grow your business on the fly."
+    }
+  ]
